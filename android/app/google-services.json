@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848883694638",
+    "project_id": "airbnb-backend-b58bb",
+    "storage_bucket": "airbnb-backend-b58bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848883694638:android:cf1c1080b63b1ff986b3bf",
+        "android_client_info": {
+          "package_name": "com.im_oregano007.airbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjPte2hl-Yv3bKsz4h9o8o-98-Kn3xzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
